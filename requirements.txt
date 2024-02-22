@@ -1,0 +1,8 @@
+paddlepaddle-gpu>=2.0.0,<3.0.0
+
+paddleorc= 2.0.1
+
+Pillow>=8.0.0,<9.0.0
+
+spacy>=3.0.0,<4.0.0
+
